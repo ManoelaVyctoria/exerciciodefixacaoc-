@@ -1,0 +1,13 @@
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\bin\Debug\netcoreapp3.1\Exercicio de fixação.exe
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\bin\Debug\netcoreapp3.1\Exercicio de fixação.deps.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\bin\Debug\netcoreapp3.1\Exercicio de fixação.runtimeconfig.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\bin\Debug\netcoreapp3.1\Exercicio de fixação.runtimeconfig.dev.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\bin\Debug\netcoreapp3.1\Exercicio de fixação.dll
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\bin\Debug\netcoreapp3.1\Exercicio de fixação.pdb
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\obj\Debug\netcoreapp3.1\Exercicio de fixação.csprojAssemblyReference.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\obj\Debug\netcoreapp3.1\Exercicio de fixação.AssemblyInfoInputs.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\obj\Debug\netcoreapp3.1\Exercicio de fixação.AssemblyInfo.cs
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\obj\Debug\netcoreapp3.1\Exercicio de fixação.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\obj\Debug\netcoreapp3.1\Exercicio de fixação.dll
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\obj\Debug\netcoreapp3.1\Exercicio de fixação.pdb
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\8 - Enumerações e composição\Exercicios resolvidos\Exercicio de fixação\Exercicio de fixação\obj\Debug\netcoreapp3.1\Exercicio de fixação.genruntimeconfig.cache
